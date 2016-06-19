@@ -12,7 +12,7 @@ FDcalc(df1, df2)
 \item{df2}{a dataframe with column called FA}
 }
 \value{
-The FD value
+return the FD value of \code{df1$FA} and \code{df2$FA}
 }
 \description{
 calculate FD (functional difference) value
