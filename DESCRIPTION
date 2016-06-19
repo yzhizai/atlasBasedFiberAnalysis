@@ -5,9 +5,9 @@ Version: 0.1.0
 Author@R: person('Shaofeng', 'Duan', email = 'duansf@ihep.ac.cn',
     role = c('aut', 'cre'))
 Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: I alse reused some function, and R dosen't have convinient path to reuse these function
-    so I have to store them in a package, and this package is used to store the function used for
-    atlas based fiber analysis.
+Description: I alse reused some function, and R dosen't have convinient path to
+    reuse these function so I have to store them in a package, and this package is
+    used to store the function used for atlas based fiber analysis.
 Imports:
     plyr,
     dplyr,
@@ -16,3 +16,4 @@ URL: https://github.com/yzhizai/atlasBasedFiberAnalysis
 BugReports: https://github.com/yzhizai/atlasBasedFiberAnalysis/issues
 License: MIT
 LazyData: TRUE
+RoxygenNote: 5.0.1
